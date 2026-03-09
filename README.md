@@ -1,4 +1,5 @@
 Sistema de Gestión de Biblioteca Digital 
+
 Estudiante: Rosario
 Institución: Universidad Estatal Amazónica (UEA)
 Carrera: Tecnologías de la Información
