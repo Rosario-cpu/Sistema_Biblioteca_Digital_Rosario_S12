@@ -1,8 +1,10 @@
 Sistema de Gestión de Biblioteca Digital 
 
-Estudiante: Rosario
-Institución: Universidad Estatal Amazónica (UEA)
-Carrera: Tecnologías de la Información
+Estudiante: Rosario Chamba.
+
+Institución: Universidad Estatal Amazónica (UEA).
+
+Carrera: Tecnologías de la Información.
 
 Descripción del Proyecto
 Este proyecto es una aplicación de consola desarrollada en Python que implementa un sistema para gestionar una biblioteca digital. El código aplica conceptos de Programación Orientada a Objetos (POO) y gestiona colecciones de datos complejas para asegurar la eficiencia del sistema.
